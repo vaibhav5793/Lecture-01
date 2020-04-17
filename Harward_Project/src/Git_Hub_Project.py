@@ -4,6 +4,7 @@ Mult = a * b
 div = a/b
 add = a+b
 sub = a-b
+print('printing the basic arithmatic operations') 
 print(Mult)
 print(div)
 print(add)
