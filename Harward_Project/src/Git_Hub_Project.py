@@ -5,7 +5,7 @@ div = a/b
 add = a+b
 sub = a-b
 print('printing the basic Arithmetic operations') 
-print(Mult)
+print('Multiplication of two Numbers',Mult)
 print(div)
 print(add)
 print(sub)
