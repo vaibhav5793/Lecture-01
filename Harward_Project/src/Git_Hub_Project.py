@@ -6,6 +6,6 @@ add = a+b
 sub = a-b
 print('printing the basic Arithmetic operations') 
 print('Multiplication of two Numbers',Mult)
-print(div)
-print(add)
-print(sub)
+print('Division of two Numbers',div)
+print('Addition of two Numbers',add)
+print('Subtraction of two Numbers',sub)
